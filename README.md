@@ -1,6 +1,8 @@
 # JAVA_School_Managament_System
 2nd Year (3rd sem) Java Project
 
+eclipse ide for Java developers - 2020-09 and xampp
+
 user login : 
 id: user 
 password: user
